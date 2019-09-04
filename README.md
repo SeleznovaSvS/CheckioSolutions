@@ -1,0 +1,2 @@
+# CheckioSolutions
+Checkio Solutions
