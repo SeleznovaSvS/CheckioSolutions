@@ -16,11 +16,6 @@ checkio(5, -5) == 10
 checkio(10.2, -2.2, 0, 1.1, 0.5) == 12.4
 checkio() == 0
     
-1
-2
-3
-4
-5
 How it is used: Here you will learn about passing an undefined amount of arguments to functions.
 
 Precondition: 0 ≤ len(args) ≤ 20
